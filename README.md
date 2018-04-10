@@ -1,0 +1,1 @@
+# parse-server-motorsportreg-auth-adapter
